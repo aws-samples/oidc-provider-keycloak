@@ -9,10 +9,10 @@ This repo intends to demonstrate how to address the OAuth2-based authorization s
 ## Prerequisites:
 
 - [awscli](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
-- [Pre configured AWS credentials](https://docs.aws.amazon.com/amazonswf/latest/developerguide/RubyFlowOptions.html)
+- [Pre configured AWS credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [cdk-v2](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
-- [A Route 53 Public Hosted Zone configured to a DNS](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/dns-configuring.html)
+- [A Route 53 Public Hosted Zone configured to a DNS](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/AboutHZWorkingWith.html)
 - [A Public Certificate issued to your Domain Name using ACM](https://docs.aws.amazon.com/acm/latest/userguide/gs-acm-request-public.html)
 
 
